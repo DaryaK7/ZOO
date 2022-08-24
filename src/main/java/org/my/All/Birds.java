@@ -5,6 +5,7 @@ public class Birds extends Actions {
         this.move = move;
         this.breathe = breathe;
     }
+//    This is a method override for a class Birds
     @Override
     public void actions() {
         System.out.printf(": I %s, %s and say ", move, breathe);

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+//               Can I use a switch?
         ArrayList<String> names = new ArrayList<>();
         names.add(" Cat");
         names.add(" Dog ");
